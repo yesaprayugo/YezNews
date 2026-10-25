@@ -1,0 +1,6 @@
+{
+  "name": "OmniNews Hub",
+  "description": "Real-time Indonesian and global breaking news aggregator and live television broadcast hub with curated multi-channel streaming and article collections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
